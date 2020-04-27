@@ -4,7 +4,7 @@
 
 ## Introduction
 
-<a href="https://virgilsecurity.com/secure-communications-platform/"><img width="100px" src="https://cdn.virgilsecurity.com/assets/images/github/logos/platform/secure-communications-platform.png" align="left" hspace="10" vspace="6"></a> [Virgil Security](https://virgilsecurity.com) introduces the CommKit - an open-source framework that allows developers to build communication applications based on the [Virgil Secure Communications Platform](https://virgilsecurity.com/secure-communications-platform/).
+<a href="https://virgilsecurity.com/secure-communications-platform/"><img width="100px" src="https://cdn.virgilsecurity.com/assets/images/github/logos/platform/secure-communications-platform.png" align="left" hspace="10" vspace="6"></a> [Virgil Security](https://virgilsecurity.com) intoduces the CommKit - an open-source framework that allows developers to build communication applications using messaging functionality of [Virgil Secure Communications Platform](https://virgilsecurity.com/secure-communications-platform/).
 
 ## Platform Features
 
