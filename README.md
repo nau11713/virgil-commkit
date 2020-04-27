@@ -1,10 +1,10 @@
 # Virgil CommKit
 
-[Introduction](#introduction) | [Platform Features](#platform-features) | [License](#license) | [Support](#support)
+[Introduction](#introduction) | [Platform Features](#platform-features) | [Security Features](#security-features) | [License](#license) | [Support](#support)
 
 ## Introduction
 
-<a href="https://virgilsecurity.com/secure-communications-platform/"><img width="100px" src="https://cdn.virgilsecurity.com/assets/images/github/logos/e3kit/E3Kit.png" align="left" hspace="10" vspace="6"></a> [Virgil Security](https://virgilsecurity.com) provides the [CommKit](https://developer.virgilsecurity.com/docs/e3kit/) - an open-source framework that allows developers to work with [Virgil Secure Communications Platform](https://virgilsecurity.com/secure-communications-platform/) to protect their company communications, intellectual property and privacy.
+<a href="https://virgilsecurity.com/secure-communications-platform/"><img width="100px" src="https://cdn.virgilsecurity.com/assets/images/github/logos/platform/secure-communications-platform.png" align="left" hspace="10" vspace="6"></a> [Virgil Security](https://virgilsecurity.com) provides the CommKit - an open-source framework that allows developers to work with [Virgil Secure Communications Platform](https://virgilsecurity.com/secure-communications-platform/) to protect their company communications, intellectual property and privacy.
 
 ## Platform Features
 
@@ -17,9 +17,9 @@
 - **IoT**: Providing, emulators, SDKs, and libraries to integrate with the Platform
 - **Dedicated**: Use our Cloud Platform or set up the Platform in your infrastructure
 
-### Security Features
+## Security Features
 
-- End-to-end data encryption
+- End-to-end data encryption 
 - Secure data and files sharing
 - Password protection against hacking
 - Post-compromise protection for stored data
