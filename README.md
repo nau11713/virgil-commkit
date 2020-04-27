@@ -1,6 +1,6 @@
 # Virgil CommKit
 
-[Introduction](#introduction) | [Platform Features](#platform-features) | [Security Features](#security-inside) | [License](#license) | [Support](#support)
+[Introduction](#introduction) | [CommKit Features](#commkit-features) | [Security Features](#security-features) | [License](#license) | [Support](#support)
 
 ## Introduction
 
@@ -18,7 +18,7 @@
 - **IoT**: Providing, emulators, SDKs, and libraries to integrate with the Platform
 - **Dedicated**: Use our Cloud Platform or set up Platfom services in your infrastructure
 
-## Security Inside
+## Security Features
 
 - End-to-end data encryption based on the Double Ratchet Algorithm
 - Secure data and files sharing
