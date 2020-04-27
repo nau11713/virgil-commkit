@@ -1,6 +1,6 @@
 # Virgil CommKit
 
-[Introduction](#introduction) | [Platform Features](#platform-features) | [Security Features](#security-features) | [License](#license) | [Support](#support)
+[Introduction](#introduction) | [Platform Features](#platform-features) | [Security Features](#security-inside) | [License](#license) | [Support](#support)
 
 ## Introduction
 
@@ -8,6 +8,7 @@
 
 
 ## CommKit Features
+
 - **Messaging**: Direct and group chats, file transfer, synchronised conversation history
 - **Voice & Video Calls**: Real-time calling capabilities within web, desktop, and mobile
 - **Security**: End-to-end encryption with Post-quantum cryptography support
@@ -18,6 +19,7 @@
 - **Dedicated**: Use our Cloud Platform or set up Platfom services in your infrastructure
 
 ## Security Inside
+
 - End-to-end data encryption based on the Double Ratchet Algorithm
 - Secure data and files sharing
 - Encrypyed push notifications
